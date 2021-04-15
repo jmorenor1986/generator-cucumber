@@ -1,0 +1,25 @@
+{
+  "name": "generator-cucumber",
+  "version": "1.0.0",
+  "description": "Cucumber example please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmorenor1986/generator-cucumber.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "John Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmorenor1986/generator-cucumber/issues"
+  },
+  "homepage": "https://github.com/jmorenor1986/generator-cucumber#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
